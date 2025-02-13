@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Tonkar  
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"  align="right">
+<img src="https://i.pinimg.com/736x/89/e4/1b/89e41b7c82f66dd4109dc7c86f2f8338.jpg" align="right" height="200">
 
 🚀 Passionate about crafting end-to-end web solutions  
 💻 Building scalable and interactive applications with React, TypeScript & Node.js  
@@ -11,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pongsakorn-lengklang-440467196/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Zlatonn)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zlat0nn.1998@gmail.com) 
-
 
 <br clear="both"/>
 
