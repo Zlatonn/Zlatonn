@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Tonkar  
-<img src="https://i.pinimg.com/736x/89/e4/1b/89e41b7c82f66dd4109dc7c86f2f8338.jpg" align="right" height="200" width="400">
+<img src="https://i.pinimg.com/736x/89/e4/1b/89e41b7c82f66dd4109dc7c86f2f8338.jpg" align="right" height="200" width="300">
 
 🚀 Passionate about crafting end-to-end web solutions  
 💻 Building scalable and interactive applications with React, TypeScript & Node.js  
